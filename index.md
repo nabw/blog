@@ -14,9 +14,9 @@ I try to use open source software (FOSS) as much as possible. This means I have 
 
 ### Links    
 
-1.  [Research](/blog/about/)  
+1.  [Research](/blog/research/)  
     Link to my research activity  
-2.  [Coding](/blog/about)
+2.  [Coding](/blog/coding/)
     Links to software I have developed, and maybe some details
 3.  [Tutorials](/blog/about/)
     Material I always search for online whenever I forget things (always)
