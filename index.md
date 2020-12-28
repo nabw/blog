@@ -23,9 +23,9 @@ I try to use open source software (FOSS) as much as possible. This means I have 
 4.  [Misc](/blog/about/)
     Complement of the other three sections
 
-
+<!-- 
 You can download my CV here and if you want to contact me I would be happy to answer! Write an email to nicolas.barnafi at e.email. This page is hosted at Github and was created using Jekyll.
-
+ -->
 
 <!-- <blockquote>
           <p>I, at any rate, am convinced that He does not throw dice.</p>
@@ -41,12 +41,15 @@ You can download my CV here and if you want to contact me I would be happy to an
 <!-- } -->
 <!-- ``` -->
 
+<!-- 
+
 ```python
 # Python code with syntax highlighting
 def fun(x):
   return x
-```
+``` 
 
+ -->
 <!-- *   This is an unordered list following a header. -->
 <!-- *   This is an unordered list following a header. -->
 <!-- *   This is an unordered list following a header. -->
@@ -99,7 +102,7 @@ def fun(x):
 
 ### Small image
  -->
-
+<!-- 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
@@ -113,3 +116,4 @@ def fun(x):
 ```
 The final element.
 ```
+ -->
