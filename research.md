@@ -5,7 +5,6 @@ title: Research activity
 
 I have studied diverse topics regarding mathematical modeling of the human body and numerical methods to approximate these models numerically. Despite the first person conjugation used throughout this page, none of this would have been possible without the invaluable contribution of my colleagues. They are indeed my most precious asset, and I am deeply thankful for their work and contributions.
 
-* * *
 
 ### Deformable Image Registration
 
@@ -15,7 +14,6 @@ Image registration consists in finding a mapping between two images. My studies 
 2. (Preprint) [A posteriori error estimates for primal and mixed finite element approximations of the deformable image registration problem](https://www.ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacion.php?id=348) 
 3. [Primal and Mixed Finite Element Methods for Deformable Image Registration Problems](https://epubs.siam.org/doi/abs/10.1137/17M115219X?casa_token=BwXlVIB7GFgAAAAA:gFkykYZoET6HVa4WkrGQmpv2G6m7-QG2a9GSbM4-4febRnYbp5EZjGuzDHM9xtTEFtpxvNbnhQ) ([Preprint here](https://www.ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacion.php?id=281))
 
-* * *
 
 ### Poromechanics
 
