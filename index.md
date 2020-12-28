@@ -15,12 +15,12 @@ I try to use open source software (FOSS) as much as possible. This means I have 
 ### Links    
 
 1.  [Research](/blog/research/)  
-    Link to my research activity  
-2.  [Coding](/blog/coding/)
-    Links to software I have developed, and maybe some details
-3.  [Tutorials](/blog/about/)
+    Research activity  
+2.  [Coding](/blog/coding/)  
+    Software I have developed, and maybe some details (future work...)
+3.  [Tutorials](/blog/about/)  
     Material I always search for online whenever I forget things (always)
-4.  [Misc](/blog/about/)
+4.  [Misc](/blog/about/)  
     Complement of the other three sections
 
 <!-- 
